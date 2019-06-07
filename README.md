@@ -34,4 +34,4 @@ The following steps are carried out:
 5. For Incident Volume Forecasting, Ticket Opening Time is taken and Time Series Forecasting is used.
 
 ### Results
-For predicting Ticket Priority, Random Forest gives almost 82% accuracy. Predicting RFC accurately is not possible with this data. And Volume Forecasting is visualized with the help of Matplotlib throughout the year.
+For predicting Ticket Priority, Random Forest gives almost 98.5% accuracy. Predicting RFC accurately is not possible with this data. And Volume Forecasting is visualized with the help of Matplotlib throughout the year.
