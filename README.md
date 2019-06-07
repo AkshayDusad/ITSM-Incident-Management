@@ -1,5 +1,5 @@
 # ITSM Incident Management
-## ABC Techncident-Management
+## ABC Tech
 
 # Project Summary
 
